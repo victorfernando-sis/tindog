@@ -40,6 +40,7 @@ Typography
  h2{ margin-bottom: 2px }
  
  p{
+    word-spacing: 1.7;
     color: #B7B7B7;
     margin-top: 0; 
  }
